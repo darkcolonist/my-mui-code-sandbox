@@ -1,7 +1,7 @@
 {
-  "name": "react-mui-4",
+  "name": "my-mui-code-sandbox",
   "version": "1.0.0",
-  "description": "",
+  "description": "playing around with mui",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
